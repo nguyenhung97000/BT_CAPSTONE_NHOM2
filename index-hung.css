@@ -11,3 +11,23 @@ body *{
     font-weight: weight;
     font-style: normal;
 }
+/* Tool start  */
+.tools__coverCard .card{
+    background-color: #f9f9f9;
+    border: none;
+    transition: 1s;
+}
+.tools__coverCard .card:hover{
+    background-color:#ffffff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transform: translateY(-10px);
+
+}
+.tools__coverCard .card__icon{
+    color: #DC4F72;
+}
+.tools__coverCard .card-title{
+    font-weight: 800;
+    font-size: 28px;
+}
+/*tool end */
