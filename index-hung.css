@@ -12,6 +12,9 @@ body *{
     font-style: normal;
 }
 /* Tool start  */
+.tools .tools__title{
+    color: #DC4F72;
+}
 .tools__coverCard .card{
     background-color: #f9f9f9;
     border: none;
@@ -31,3 +34,29 @@ body *{
     font-size: 28px;
 }
 /*tool end */
+
+/* about start */
+.about{
+    background-color: #F7F9FC;
+}
+.about__text .text__title{
+color: #DC4F72;
+}
+.about__text button{
+    color: white;
+    background-color: #DC4F72;
+    height: 60px;
+    width: 150px;
+    transition: 1s;
+}
+.about__text button:hover{
+    background-color: #D62F58;
+    color: white;
+}
+.about__img img {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    transition: 1s;
+}
+.about__img img:hover{
+    transform: translateY(-20px);
+}
