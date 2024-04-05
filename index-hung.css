@@ -11,7 +11,6 @@ body *{
     font-weight: weight;
     font-style: normal;
 }
-<<<<<<< HEAD
 
 /* FEARTURED */
 .fearuted__title{
@@ -326,7 +325,6 @@ body *{
         font-size: 15px;
         line-height: 36px;
     }
-=======
 /* Tool start  */
 .tools .tools__title{
     color: #DC4F72;
@@ -507,4 +505,3 @@ input[type=checkbox]:checked ~ .dropdown__content i{
     
 
 
->>>>>>> b789514b1fc9cbad7d90a200fbbd809549dd11be
